@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Portfolio</title>
+<body bgcolor="yellow">
+<font face="arial black" color="blue"><h4 align="center">RESUME</h4></font>
+<p align="right"><img src="C:\imp docs\Parnav.jpg" height="150" width="130">
+<font face="arial black" color="blue"><h4 align="left"> Parnav Kumar  </h4></font>
+<font face="arial black" color="blue"><h4 align="left">E-mail: sangwanparnav@gmail.com </h4></font>
+<font face="arial black" color="blue"><h4 align="left">Contact: 8168103185
+ </h4></font>
+<table border="20" width="100%" cellpadding="15" cellspacing="15" bgcolor="white">
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Year of passing</th>
+<th>University/board</th>
+<th>Marks(percentage)</th>
+</tr>
+<tr>
+<th>M.tech</th>
+<th>B.V.P college of engeneering</th>
+<th>2012</th>
+<th>IP university</th>
+<th>73%</th>
+</tr>
+<tr>
+<th>B.tech mechanical</th>
+<th>B.V.P college of engeneering</th>
+<th>2010</th>
+<th>IP university</th>
+<th>77%</th>
+</tr>
+<tr>
+<th>XII(scince)</th>
+<th>Bal bharti school</th>
+<th>2006</th>
+<th>CBSE</th>
+<th>93%</th>
+</tr>
+<tr>
+<th>x</th>
+<th>Bal bharti school</th>
+<th>2004</th>
+<th>CBSE</th>
+<th>90%</th>
+</tr>
+</table>
+<u><font face="arial black" color="blue"><h4 align="left">EXTRA CURRICULAR ACTIVITIES</h4></font></u>
+<ul>
+<li><font face="arial black" color="blue"><h4 align="left">Won first price at inter college debate competetion</h4></li>
+<li><font face="arial black" color="blue"><h4 align="left">President of the college rotract soceity</h4></font></li>
+<li><font face="arial black" color="blue"><h4 align="left">Member of the college NSS</h4></font></li>
+</ul>
+</body>
+</head>
+</html>
+
